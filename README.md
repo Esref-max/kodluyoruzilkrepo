@@ -5,10 +5,10 @@ Bu repo [Kodluyoruz](https://www.kodluyoruz.org) Front-End Eğitiminde oluşturd
 
 ## Installation
 
-https://github.com/Esref-max/kodluyoruzilkrepo.git
+
 
 ```bash
-git clone https://github.com/cengizcmataraci/kodluyoruzilkrepo.git
+git clone [https://github.com/Esref-max/kodluyoruzilkrepo.git]
 ```
 
 ## Usage
